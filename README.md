@@ -354,8 +354,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-M. Faza Ar Rantisi
-Resya Aniantri Priatna
+M. Faza Ar Rantisi |
+Resya Aniantri Priatna |
 Jagad Alit Kalimosodo
 
 Project Link: [https://github.com/KanzeroG/Library-Management](https://github.com/KanzeroG/Library-Management) 
