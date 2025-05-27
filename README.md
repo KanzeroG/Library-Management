@@ -323,12 +323,11 @@ php artisan serve
 ## Default Login
 
 ### Admin
-- Email: admin@example.com
-- Password: password
+- Email: zeronsa@gmail.com
+- Password: test123321
 
 ### User
-- Email: user@example.com
-- Password: password
+- Create your own
 
 ## Technologies Used
 
@@ -350,7 +349,7 @@ php artisan serve
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+No license all of you can edit or do whatever you want😁
 
 ## Contact
 
