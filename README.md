@@ -281,8 +281,7 @@ to access the sql databse its simple go through database.sql copy and paste it t
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/library-management.git
-cd library-management
+git clone https://github.com/KanzeroG/Library-Management
 ```
 
 2. Install dependencies
